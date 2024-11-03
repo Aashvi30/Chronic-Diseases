@@ -92,7 +92,7 @@ button[type="submit"]:active {
 .success-message {
     margin-top: 1rem;
     font-size: 1rem;
-    color: #27ae60;
+    color:  #555;
     display: none;
 }
 
